@@ -15,3 +15,5 @@ of upstream feed production emission pathways across seven U.S. regions.
 **Tools:** Python, differential equations modeling, RCP scenario data, USDA cattle data  
 **Methods:** Reduced-complexity climate modeling, ODE systems, emissions accounting  
 **Program:** NSF-funded QRLSSP Summer Program, ASU (Summer 2024)  
+**Conference Presentation** Millis-Wight P. et al. "High Steaks." Poster/Talk presentation at SACNAS 
+NDiSTEM Conference, October 2024.
